@@ -3,7 +3,7 @@ var express = require('express');
 var app = express();
 
 // Define port
-var port = 3000;
+var port = 80;
 
 // View engine
 app.set('view engine', 'jade');
